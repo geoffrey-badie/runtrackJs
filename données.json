@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "email": "Florian@laplateforme.io",
+        "password": "MotPassePlateforme7382",
+        "role": "normal"
+      },
+      {
+        "email": "Paul@laplateforme.io",
+        "password": "LoginPassword81094",
+        "role": "admin"
+      },
+      {
+        "email": "Johanne@laplateforme.io",
+        "password": "Information8439",
+        "role": "normal"
+      }
+    ]
+  }
